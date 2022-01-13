@@ -17,6 +17,10 @@ Google Driveに「minecraft」というフォルダが作られます。すで�
 バニラ： 1(SETUP)/Vanilla/vanilla.ipynb を選択
 mod：1(SETUP)/mod/*.ipynbを選択
 
+※The Sky Blessingのみ起動確認
+
+他は試してないので動くか不明
+
 ランタイム > すべてのセルを実行
 
 (バニラの人) サーバーファイルのURL入力が求められます。
